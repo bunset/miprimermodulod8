@@ -1,0 +1,7 @@
+miprimermodulod8.test:
+  path: "/miprimermodulod8"
+  defaults:
+    _title: "Mi primer modulo en Drupal 8"
+    _controller: "\Drupal\miprimermodulod8\Controller\MiPrimerModuloD8Controller::test"
+  requirements:
+    _permission: "access content"

@@ -1,0 +1,4 @@
+name: Mi primer modulo D8
+type: module
+description: "modulo de prueba para drupal 8 desde phpstorm."
+core: 8.x
